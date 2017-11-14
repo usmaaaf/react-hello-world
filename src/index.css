@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Spectral+SC');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.hello {
+  font-size: 55px;
+  font-family: 'Spectral SC';
+}
